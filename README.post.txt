@@ -1,5 +1,5 @@
 //Drew Post
-//A04842758
+//CS1428 Fall 2018
 //Assg. 5 README
 
 DEAL OR NO DEAL
